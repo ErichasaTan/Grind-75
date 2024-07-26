@@ -1,5 +1,7 @@
 # Author Eric & Manpreet
 # Date: 7/25/24
+# Time / Space Complexity: O(n2) because there are two for loops
+# Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity? - We will revisit this problem in the future
 class Solution(object):
     def twoSum(self, nums, target):
         """
