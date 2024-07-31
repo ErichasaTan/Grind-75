@@ -1,5 +1,6 @@
 # Author Eric & Manpreet
 # Date: 7/25/24
+# Time and Space Complexity: O(n^2) because there are two for loops.
 class Solution(object):
     def twoSum(self, nums, target):
         """
